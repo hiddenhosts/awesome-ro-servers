@@ -21,7 +21,13 @@
 <!-- SERVERS_START -->
 | 名稱 | 經驗倍率 | 金幣倍率 | 掉寶倍率 | 投票數 | 評分 | 連結 |
 |------|----------|----------|----------|--------|------|------|
-| 等待首次同步... | - | - | - | - | - | [查看全部](https://hiddenhosts.com/tw/ro) |
+| 夢憶仙境 | 50x | 1x | 1x | 0 | - | [詳情](https://hiddenhosts.com/tw/ro/server-bnez6m) |
+| AIRO | 2x | 1x | 1x | 0 | - | [詳情](https://hiddenhosts.com/tw/ro/airo) |
+| 七七仙境 | 999x | 1x | 1x | 0 | - | [詳情](https://hiddenhosts.com/tw/ro/server-a6182y) |
+| 星光詠嘆 | 200x | 1x | 1x | 0 | - | [詳情](https://hiddenhosts.com/tw/ro/server-d89kj4) |
+| 亞卡迪亞 | 250x | 1x | 1x | 0 | - | [詳情](https://hiddenhosts.com/tw/ro/server-a9vid3) |
+| 花夜仙境 | 30x | 1x | 1x | 0 | - | [詳情](https://hiddenhosts.com/tw/ro/server-guuvth) |
+| 樂比仙境 | 50x | 1x | 1x | 0 | - | [詳情](https://hiddenhosts.com/tw/ro/server-dtir18) |
 <!-- SERVERS_END -->
 
 > 🔗 查看所有仙境傳說私服：[hiddenhosts.com/tw/ro](https://hiddenhosts.com/tw/ro)
