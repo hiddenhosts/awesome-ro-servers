@@ -23,7 +23,7 @@ jobs:
       - name: Sync server list
         run: node scripts/sync.js
         env:
-          GAME_SLUG: 'ro'
+          GAME_SLUG: 'ragnarok-online'
           SITE_URL: 'https://hiddenhosts.com'
 
       - name: Commit and push changes
