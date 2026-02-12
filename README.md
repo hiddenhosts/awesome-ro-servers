@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://hiddenhosts.com/tw/ro">
+  <a href="https://hiddenhosts.com/game/ragnarok-online">
     <img src="https://hiddenhosts.com/logo.png" alt="HiddenHosts" width="120" />
   </a>
 </p>
@@ -10,7 +10,7 @@
 
 精選仙境傳說私服列表，由 [HiddenHosts](https://hiddenhosts.com) 維護並每日自動更新。
 
-> **📋 想看完整列表？** 前往 **[HiddenHosts - 仙境傳說私服](https://hiddenhosts.com/tw/ro)** 查看更多伺服器，支援投票、評分和收藏功能。
+> **📋 想看完整列表？** 前往 **[HiddenHosts - 仙境傳說私服](https://hiddenhosts.com/game/ragnarok-online)** 查看更多伺服器，支援投票、評分和收藏功能。
 
 ---
 
@@ -21,16 +21,10 @@
 <!-- SERVERS_START -->
 | 名稱 | 經驗倍率 | 金幣倍率 | 掉寶倍率 | 投票數 | 評分 | 連結 |
 |------|----------|----------|----------|--------|------|------|
-| 花夜仙境 | 30x | 1x | 1x | 2 | - | [詳情](https://hiddenhosts.com/tw/ragnarok-online/server-guuvth) |
-| 七七仙境 | 999x | 1x | 1x | 2 | - | [詳情](https://hiddenhosts.com/tw/ragnarok-online/server-a6182y) |
-| AIRO | 2x | 1x | 1x | 1 | - | [詳情](https://hiddenhosts.com/tw/ragnarok-online/airo) |
-| 夢憶仙境 | 50x | 1x | 1x | 1 | - | [詳情](https://hiddenhosts.com/tw/ragnarok-online/server-bnez6m) |
-| 亞卡迪亞 | 250x | 1x | 1x | 1 | - | [詳情](https://hiddenhosts.com/tw/ragnarok-online/server-a9vid3) |
-| 星光詠嘆 | 200x | 1x | 1x | 0 | - | [詳情](https://hiddenhosts.com/tw/ragnarok-online/server-d89kj4) |
-| 樂比仙境 | 50x | 1x | 1x | 0 | - | [詳情](https://hiddenhosts.com/tw/ragnarok-online/server-dtir18) |
+| 等待首次同步... | - | - | - | - | - | [查看全部](https://hiddenhosts.com/game/ragnarok-online) |
 <!-- SERVERS_END -->
 
-> 🔗 查看所有仙境傳說私服：[hiddenhosts.com/tw/ro](https://hiddenhosts.com/tw/ro)
+> 🔗 查看所有仙境傳說私服：[hiddenhosts.com/game/ragnarok-online](https://hiddenhosts.com/game/ragnarok-online)
 
 ---
 
