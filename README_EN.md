@@ -21,7 +21,13 @@ A curated list of Ragnarok Online private servers, maintained by [HiddenHosts](h
 <!-- SERVERS_START -->
 | Name | EXP Rate | Gold Rate | Drop Rate | Votes | Rating | Link |
 |------|----------|----------|----------|--------|------|------|
-| Waiting for first sync... | - | - | - | - | - | [View all](https://hiddenhosts.com/en/game/ragnarok-online) |
+| 花夜仙境 | 30x | 1x | 1x | 2 | - | [Details](https://hiddenhosts.com/en/server/server-guuvth) |
+| 七七仙境 | 999x | 1x | 1x | 2 | - | [Details](https://hiddenhosts.com/en/server/server-a6182y) |
+| AIRO | 2x | 1x | 1x | 1 | - | [Details](https://hiddenhosts.com/en/server/airo) |
+| 夢憶仙境 | 50x | 1x | 1x | 1 | - | [Details](https://hiddenhosts.com/en/server/server-bnez6m) |
+| 亞卡迪亞 | 250x | 1x | 1x | 1 | - | [Details](https://hiddenhosts.com/en/server/server-a9vid3) |
+| 星光詠嘆 | 200x | 1x | 1x | 0 | - | [Details](https://hiddenhosts.com/en/server/server-d89kj4) |
+| 樂比仙境 | 50x | 1x | 1x | 0 | - | [Details](https://hiddenhosts.com/en/server/server-dtir18) |
 <!-- SERVERS_END -->
 
 > 🔗 Browse all RO servers: [hiddenhosts.com/en/game/ragnarok-online](https://hiddenhosts.com/en/game/ragnarok-online)
